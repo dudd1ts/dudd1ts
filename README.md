@@ -1,5 +1,4 @@
 ### Hi!<sup>:wave:</sup>&nbsp; I'm Sergei Kondrashev and I'm frontend developer.
-&nbsp;
 
 You can contact me via:
 
@@ -15,6 +14,11 @@ My stack:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-2d333b?style=flat-square&logo=git)
+
+&nbsp;
+
+&nbsp;
+[![Codewars](https://www.codewars.com/users/Dudd1ts/badges/small)](https://www.codewars.com/users/Dudd1ts)
 
 <!---
 dudd1ts/dudd1ts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
